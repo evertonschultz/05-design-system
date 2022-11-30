@@ -1,0 +1,2 @@
+import{A as t}from"./index.8c751ac3.js";import"./index.e06aa894.js";import"./iframe.f4733776.js";import"./index.f34d34f4.js";import"./jsx-runtime.2c38970e.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/evertonschultz.png",alt:"Everton Filipe"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,c as WithFallback,l as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.39bd43b5.js.map
